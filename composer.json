@@ -1,0 +1,12 @@
+{
+    "name": "viktor/echobotphp",
+    "description": "This task is part of learning for php-dev",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Viktor Dzyuba",
+            "email": "foratagan@mail.ru"
+        }
+    ],
+    "require": {}
+}
