@@ -1,10 +1,5 @@
 {
     "name": "viktor/echobotphp",
-    "autoload": {
-        "files": [
-            "src/Runner.php"      
-        ]
-    },
     "description": "This task is part of learning for php-dev",
     "type": "project",
     "authors": [
@@ -15,5 +10,13 @@
     ],
     "require": {
         "tightenco/collect": "^8.0"
+    },
+    "autoload": {
+        "files": [
+            "src/Runner.php"      
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.4"
     }
 }
